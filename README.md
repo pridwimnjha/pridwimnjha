@@ -20,7 +20,10 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=pridwimnjha&color=blue)
 
-![3D Contributions](https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/main/assets/github-contribution-grid-snake.svg)
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,html,git,github,vscode&perline=5" />
+</p>
 
 ![Analytics Vidhya Rank](https://img.shields.io/badge/AnalyticsVidhya-Rank680-blue?style=flat-square)
 
