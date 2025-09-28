@@ -54,9 +54,9 @@
 
 ## 📊 GitHub Stats  
 
-![Pridwimn's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
+![Pridwimn's GitHub stats](https://github-readme-stats.vercel.app/api?username=pridwimnjha&show_icons=true&theme=default)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pridwimnjha&layout=compact)  
 
 ---
 
