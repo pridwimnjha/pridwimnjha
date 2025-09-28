@@ -6,6 +6,18 @@
 🌱 Learning: Advanced AI, Deep Learning, and NLP.  
 
 ---
+## 🔧 Skills & Tools  
+
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-00A3E0?logo=openai&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+
+---
 
 ## 📂 Featured Projects  
 
@@ -39,18 +51,6 @@
 
 ---
 
-## 🔧 Skills & Tools  
-
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-00A3E0?logo=openai&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
-![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-
----
 
 ## 📊 GitHub Stats  
 
