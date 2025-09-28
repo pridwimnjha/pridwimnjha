@@ -20,13 +20,33 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=pridwimnjha&color=blue)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Programming & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,html,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,git,github,vscode&perline=6" />
 </p>
 
-![Analytics Vidhya Rank](https://img.shields.io/badge/AnalyticsVidhya-Rank680-blue?style=flat-square)
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0C55A5?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0696D7?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
+</p>
 
+### 🌐 Web & Data Scraping
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</p>
 
 
 ## 📂 Featured Projects  
