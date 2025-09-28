@@ -18,6 +18,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=pridwimnjha&color=blue)
+
 
 ## 📂 Featured Projects  
 
