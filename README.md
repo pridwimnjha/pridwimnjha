@@ -20,6 +20,9 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=pridwimnjha&color=blue)
 
+![3D Contributions](https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/main/assets/github-contribution-grid-snake.svg)
+
+
 
 ## 📂 Featured Projects  
 
