@@ -90,6 +90,28 @@
 
 ---
 
+## 🎓 Certifications  
+
+- ☁️ **AWS Academy Graduate** — *AWS Academy Cloud Architecting* (2025)  
+- 🐍 **Udemy** — *100 Days of Code: The Complete Python Pro Bootcamp* (2025)  
+- 📊 **Deloitte** — *Data Analytics Virtual Experience* (2025)  
+- 🗄️ **Udemy** — *15 Days of SQL: The Complete SQL Masterclass* (2025)  
+- 📈 **Microsoft** — *Power BI Desktop for Business Intelligence* (2025)  
+- 🗃️ **IIT Kharagpur** — *DBMS Certification* (2024)  
+- 🔍 **Google** — *Data Analytics Professional Certificate* (2024)
+
+## 🎓 Certifications  
+
+![Python](https://img.shields.io/badge/Udemy-100%20Days%20of%20Code%20Python%20Bootcamp-FF6F00?logo=udemy&logoColor=white) (2025)  
+![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Virtual%20Experience-005587?logo=deloitte&logoColor=white) (2025)  
+![AWS](https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-FF9900?logo=amazon-aws&logoColor=white) (2025)  
+![SQL](https://img.shields.io/badge/Udemy-SQL%20Masterclass-4479A1?logo=mysql&logoColor=white) (2025)  
+![Power BI](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?logo=powerbi&logoColor=black) (2025)  
+![IIT](https://img.shields.io/badge/IIT%20Kharagpur-DBMS%20Certification-0C55A5?logo=google-scholar&logoColor=white) (2024)  
+![Google](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-34A853?logo=google&logoColor=white) (2024)  
+
+
+
 ## 📫 Connect with Me  
 
 - 🌐 Portfolio: *coming soon via GitHub Pages*  
