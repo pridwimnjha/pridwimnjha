@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pridwimn Jha  
+# Hi, I'm Pridwimn Jha  
 
 🎓 Seventh-semester Computer Science student | 💻 ML • NLP • Data Science | 🚀 Aspiring AI Engineer  
 
