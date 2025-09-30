@@ -56,7 +56,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pridwimnjha&theme=react-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pridwimnjha&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pridwimnjha&layout=compact&theme=tokyonight)
 
 
 
