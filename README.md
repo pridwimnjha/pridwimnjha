@@ -48,6 +48,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 </p>
 
+### 📊 GitHub Stats
+
+![Pridwimn's GitHub stats](https://github-readme-stats.vercel.app/api?username=pridwimnjha&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pridwimnjha&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pridwimnjha&theme=react-dark&hide_border=true)
+
 
 ## 📂 Featured Projects  
 
