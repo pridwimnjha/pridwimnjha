@@ -56,6 +56,9 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pridwimnjha&theme=react-dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pridwimnjha&layout=compact&theme=radical)
+
+
 
 ## 📂 Featured Projects  
 
@@ -86,15 +89,6 @@
 - [**TrafficLens AI**](https://github.com/your-username/TrafficLens-AI-India-first-navigation-system-) – India-first AI-powered navigation system for chaotic traffic.  
 - [**Artisan Prototype**](https://github.com/your-username/artisan-prototype) – Early prototype for marketplace platform.  
 - [**Healthcare Data (AP state)**](https://github.com/your-username/Healthcare_data) – Analysis of healthcare datasets.  
-
----
-
-
-## 📊 GitHub Stats  
-
-![Pridwimn's GitHub stats](https://github-readme-stats.vercel.app/api?username=pridwimnjha&show_icons=true&theme=default)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pridwimnjha&layout=compact)  
 
 ---
 
