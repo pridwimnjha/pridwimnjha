@@ -108,8 +108,8 @@
 
 ## 📫 Connect with Me  
 
-- 🌐 Portfolio: https://leetcode.com/u/pridwimnjha/    
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pridwimn-jha-/)  
+- 🌐 Portfolio: https://pridwimnjha.github.io/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pridwimn-jha-/)
 - ✉️ Email: pridwimnjha@gmail.com  
 - 📍 Mumbai, India  
 
