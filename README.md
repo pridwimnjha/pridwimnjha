@@ -1,6 +1,6 @@
 # Hi, I'm Pridwimn Jha  
 
-🎓 Seventh-semester Computer Science student | 💻 ML • NLP • Data Science | 🚀 Aspiring Data Analyst  
+🎓 Eighth-semester Computer Science student | Got Full time offer at @Accenture| 💻 ML • NLP • Data Science | 🚀 Aspiring Data Analyst  
 
 🔭 Currently exploring **AI + ML applications** in text analytics, computer vision, and real-world systems.  
 🌱 Learning: Advanced AI, Deep Learning, and NLP.  
